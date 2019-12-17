@@ -1,0 +1,27 @@
+body {
+      position: relative;
+  }
+
+  .navbar-custom{
+    color:white;
+    background-color: #F39C12;
+}
+.navbar-nav > .active {
+      color:black;
+      background-color: #F55505!important;
+ }
+
+.navbar-nav> .active > a {},
+.navbar-nav > .active > a:hover {
+      color:#0000A0;
+      background-color: #F55505!important;
+ }
+ .liclass
+ {
+ color:black
+ }
+ section
+ {
+padding-top: 60px;
+     padding-bottom: 40px
+}

@@ -1,0 +1,49 @@
+
+td
+{
+width : 40%;
+height: 30%;
+}
+.thead
+{
+color:#2980B9;
+font-weight: bold;
+font-size:120%;
+}
+.tdtext1
+{
+color:#F38736;
+font-weight: bold;
+font-size:110%;
+
+}
+
+.tdtext2
+{
+color:Black;
+font-weight: bold;
+font-size:110%;
+
+}
+
+.tdtext3
+{
+color:#FF0000;
+font-weight: bold;
+font-size:110%;
+
+}
+
+.tdtext4
+{
+color:green;
+font-weight: bold;
+font-size:110%;
+
+}
+
+.member{
+color:#F38736;
+font-weight: bold;
+font-size:110%;
+}
